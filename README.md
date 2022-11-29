@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @tsairaj022
-- 👀 I’m interested in github new things
+- 👀 I’m interested in new things
