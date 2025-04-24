@@ -2,7 +2,7 @@
 
 ## I'm a Student!!
 
-- 🌱 I’m currently learning Web development!
+- Full stack developer!
 
 
 ### Skills
